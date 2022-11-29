@@ -21,7 +21,7 @@
   font-family: "Roboto";
 }
 .banner-section-bg-container {
-  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+  background-image: url("https://asset.cloudinary.com/dbfqymryx/dcbd987123601572037d8e685b13015a");
   height: 100vh;
   background-size: cover;
 }
